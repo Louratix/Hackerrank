@@ -1,2 +1,2 @@
 # Hackerrank
-I save all my Hackerrank solutions here ✔️
+I save all my Hackerrank solutions here ✅
